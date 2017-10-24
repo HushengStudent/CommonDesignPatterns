@@ -1,6 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+/// <summary>
+/// 简单工厂模式
+/// </summary>
 public static class FoodFactory 
 {
     public static Food CreateFood(FoodType type)
