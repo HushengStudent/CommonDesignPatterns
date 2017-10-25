@@ -1,6 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+/// <summary>
+/// 建造者模式
+/// </summary>
 public class CarDirector 
 {
     private CarBuilder builder;
