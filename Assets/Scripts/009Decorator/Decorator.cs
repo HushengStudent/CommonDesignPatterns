@@ -1,6 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+/// <summary>
+/// 装饰者模式
+/// </summary>
 public class Decorator : ICloth {
 
 
